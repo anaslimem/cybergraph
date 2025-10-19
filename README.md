@@ -25,7 +25,7 @@ The system consists of three main components:
 
 ### Data Model
 
-``` mermaid
+``` bash 
 (Pulse) -[:CONTAINS]-> (Indicator)
 ```
 
@@ -202,10 +202,6 @@ Contributions are welcome. Please follow these guidelines:
 ## License
 
 This project is licensed under the terms of MIT licence .
-
-## Author
-
-Anas Limem
 
 ## Acknowledgments
 
